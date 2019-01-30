@@ -41,10 +41,10 @@ Describe any challenges encountered while building the app.
 ### User Stories
 
 #### REQUIRED (10pts)
-- [ ] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [ ] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView
-   - [ ] (1pt) When clicking on a popular movie (i.e. a movie voted for more than 5 stars) the video should be played immediately.
-   - [ ] (1pt) Less popular videos rely on the detailed page should show an image preview that can initiate playing a YouTube video.
+- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView
+   - [x] (1pt) When clicking on a popular movie (i.e. a movie voted for more than 5 stars) the video should be played immediately.
+   - [x] (1pt) Less popular videos rely on the detailed page should show an image preview that can initiate playing a YouTube video.
 
 #### BONUS
 - [ ] Add a play icon overlay to popular movies to indicate that the movie can be played (1 point).
@@ -54,7 +54,7 @@ Describe any challenges encountered while building the app.
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="walkthrough_pt2.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
