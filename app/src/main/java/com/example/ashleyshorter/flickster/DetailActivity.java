@@ -20,6 +20,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import org.parceler.Parcels;
 
+import butterknife.BindView;
 import cz.msebera.android.httpclient.Header;
 
 public class DetailActivity extends YouTubeBaseActivity {
